@@ -4,7 +4,7 @@ The purpose of this library is to provide basic data structures, as studied in E
 
 The data structures currently implemented are :
 
-1. Arrays (non-resizable, heap allocated)
+1. Arrays (non-resizable)
 2. Linked lists
 3. Stacks
 4. Queues
