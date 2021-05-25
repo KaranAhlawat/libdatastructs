@@ -14,11 +14,11 @@ The data structures currently implemented are :
 
 ## **Setup**
 
-As the library was intened for user over any platform, it is recommended to compile the source code into a static library.
+It is recommended to compile the source code into a static library.
 
 For this purpose the use of _**premake5**_ has been made for the convenience of the user.
 
-The premake5 lua script currently only supports setting up projects for Visual Studio and generating makefiles for gmake.
+The premake5 lua script currently only supports setting up projects for Visual Studio and generating makefiles for make/gmake.
 
 ### FOR VISUAL STUDIO USERS :
 
