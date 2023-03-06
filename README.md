@@ -22,10 +22,10 @@ The premake5 lua script currently only supports setting up projects for Visual S
 
 ### FOR VISUAL STUDIO USERS :
 
-1. Download the repository from [Data Structures Library](https://github.com/KaranAhlawat/Data-Structures-Lib) or clone the repository from <https://github.com/KaranAhlawat/Data-Structures-Lib.git> using
+1. Download the repository from [libdatastructs](https://github.com/KaranAhlawat/libdatastructs) or clone the repository from <https://github.com/KaranAhlawat/libdatastructs.git> using
 
 ```
-git clone https://github.com/KaranAhlawat/Data-Structures-Lib.git
+git clone https://github.com/KaranAhlawat/libdatastructs.git
 ```
 
 2. Navigate to the build folder inside the repository, and open a terminal in it.
@@ -41,10 +41,11 @@ git clone https://github.com/KaranAhlawat/Data-Structures-Lib.git
 
 ### FOR GMAKE/MAKE USERS :
 
-1. Download the repository from [Data Structures Library](https://github.com/KaranAhlawat/Data-Structures-Lib) or clone the repository from <https://github.com/KaranAhlawat/Data-Structures-Lib.git> using
+
+1. Download the repository from [libdatastructs](https://github.com/KaranAhlawat/libdatastructs) or clone the repository from <https://github.com/KaranAhlawat/libdatastructs.git> using
 
 ```
-git clone https://github.com/KaranAhlawat/Data-Structures-Lib.git
+git clone https://github.com/KaranAhlawat/libdatastructs.git
 ```
 
 2. Navigate to the build folder inside the repository, and open a terminal in it.
